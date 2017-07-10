@@ -1,7 +1,7 @@
 # releaf_coding_challenge
 
 The coding challenge in itself consists of scraping google search results for relevant links related to the companies
-listed in Scrape_Assignment_DataSet.csv
+listed in Scrape_Assignment_DataSet.csv.
 
 Having never created a webscraper before, I turned to our good old friend Google and his little cousin Youtube to see
 if I could find anything of use. I chose Python because I do not have much experience as a software engineer, and the 
@@ -20,10 +20,10 @@ issue will automatically get rid of issue #1.
 
 To Do Lists:
 
-1. Fix Selenium installation
+1. Fix Selenium installation.
 
-2. Retrieve relevant links related to any given company in Scrape_Assignment_Dataset.csv
+2. Retrieve relevant links related to any given company in Scrape_Assignment_Dataset.csv.
 
-3. Pour output of links in Scrape_Assignment_Dataset.csv
+3. Pour output of links in Scrape_Assignment_Dataset.csv.
 
-4. Update source to prompt user to enter the name of the company they are interest about getting relevant links about.
+4. Update source code to prompt user to enter the name of the company they would like to get relevant links about.
