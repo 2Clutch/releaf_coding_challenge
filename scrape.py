@@ -21,4 +21,4 @@ def get_links(company_name):
 		browser.close()
 		return results
 
-get_links(Ol Pejeta Ranching Ltd)
+get_links(dog)
