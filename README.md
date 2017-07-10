@@ -20,10 +20,8 @@ issue will automatically get rid of issue #1.
 
 To Do Lists:
 
-1. Fix Selenium installation.
+1. Retrieve relevant links related to any given company in Scrape_Assignment_Dataset.csv.
 
-2. Retrieve relevant links related to any given company in Scrape_Assignment_Dataset.csv.
+2. Pour output of links in Scrape_Assignment_Dataset.csv.
 
-3. Pour output of links in Scrape_Assignment_Dataset.csv.
-
-4. Update source code to prompt user to enter the name of the company they would like to get relevant links about.
+3. Update source code to prompt user to enter the name of the company they would like to get relevant links about.
