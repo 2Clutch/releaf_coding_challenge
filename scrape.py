@@ -1,10 +1,10 @@
 from selenium import webdriver
 
 def get_links(company_name):
-	url = "https://www.startpage.com"
+	url = "https://www.google.com/"
 	browser = webdriver.PhantomJS()
 	browser.get(url)
-	search_box = browser.find_element_by_id("query")
+	search_box = browser.find_element_by_id("list-ib")
 	search_box.send_keys(company_name)
 	search_box.submit()
 
