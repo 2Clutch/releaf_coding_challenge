@@ -9,18 +9,15 @@ language is very english like. That aspect usually makes things easier for me.
 
 My source code is based off this <a href="https://www.youtube.com/watch?v=EELySnTPeyw">tutorial</a> on Youtube. 
 
-During the process I ran into 2 roadbloacks:
+Listed below are current roadbloacks I'm facing, and also some on the next steps I plan on taking.
 
-1. Command line returned a syntax error when a company's name was attributed to company_name. My guess is it probably has something to do with the attribute being a string of words instead of a single word; just as it is demonstrated in the tutorial
+Roadbloack(s):
 
-2. When I tried to run my script with a single word, the command line returned an error saying the module selenium could 
-not be found. This most likely has to do with the fact that selenium wasn't installed properly, or maybe its path wasn't
-set up properly for some reason. I have not been able to fix this yet. There's a good chance however that resolving this
-issue will automatically get rid of issue #1.
+1. Script is succesfully running from the command line, but there is no output.
 
-To Do Lists:
+To Do List:
 
-1. Retrieve relevant links related to any given company in Scrape_Assignment_Dataset.csv.
+1. Figure out why the script is not producing any output, and fix it.
 
 2. Pour output of links in Scrape_Assignment_Dataset.csv.
 
