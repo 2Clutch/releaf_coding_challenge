@@ -17,8 +17,10 @@ Roadbloack(s):
 
 To Do List:
 
-1. Figure out why the script is not producing any output, and fix it.
+1. Figure out why the script is not producing any output
 
-2. Pour output of links in Scrape_Assignment_Dataset.csv.
+2. Use information from TDL1 to fix R1.
 
-3. Update source code to prompt user to enter the name of the company they would like to get relevant links about.
+3. Pour output of links in Scrape_Assignment_Dataset.csv.
+
+4. Update source code to prompt user to enter the name of the company they would like to get relevant links about.
