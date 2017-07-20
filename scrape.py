@@ -6,7 +6,7 @@ def get_links(company_name):
 	browser.get(url)
 	search_box = browser.find_element_by_name("q")
 	search_box.send_keys(company_name)
-	search_box.submit
+	search_box.submit()
 	try:
 		links = browser.find_elements_by_xpath("//ol[class='web_regular_results']//h3//a")
 	except:
