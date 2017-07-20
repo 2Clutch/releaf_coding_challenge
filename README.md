@@ -1,5 +1,7 @@
 # releaf_coding_challenge
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/88c5ddbac1214546b4164be8ac6663e1)](https://www.codacy.com/app/maximillianaza/releaf_coding_challenge?utm_source=github.com&utm_medium=referral&utm_content=2Clutch/releaf_coding_challenge&utm_campaign=badger)
+
 The coding challenge in itself consists of scraping google search results for relevant links related to the companies
 listed in Scrape_Assignment_DataSet.csv.
 
