@@ -1,5 +1,6 @@
 # releaf_coding_challenge
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c1e7ce2532bb4a50996020d8623ff1a5)](https://app.codacy.com/app/2Clutch/releaf_coding_challenge?utm_source=github.com&utm_medium=referral&utm_content=2Clutch/releaf_coding_challenge&utm_campaign=badger)
 [![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/2Clutch/knowledge-purse)
 
 The coding challenge in itself consists of scraping google search results for relevant links related to the companies
